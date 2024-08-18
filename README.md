@@ -1,7 +1,5 @@
 ## Hello, i'm Karla! 👋
 
-![e84edb279472c7ab49e97ec276d4ffda](https://github.com/KarlaCarol/KarlaCarol/assets/150029222/9d5a53c1-58a1-4681-90b4-91dcf86e69ee)
-
 <!--
 **KarlaCarol/KarlaCarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
